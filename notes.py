@@ -87,3 +87,9 @@ print(my_animal.set_i(12))
 
 # my_animal2 = Animal = Animal()
 # print("Animal 2 has an i value of", my_animal2.i)
+
+'''
+CA Advice 20/10
+
+
+'''
